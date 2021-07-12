@@ -4,12 +4,12 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em Gestão da Tecnologia da informação.
-- 💼 &nbsp; Trabalhando como **Dev Front-end Freelancer** na <a href="https://angeloricardo.tech/">angeloricardo.tech</a>
-- 🌱 &nbsp; Aprendendo mais sobre **ReactJS, React Native**.
+- 💼 &nbsp; Focado para conhecer toda pilha frontend e backend.
+- 🌱 &nbsp; Aprendendo mais sobre **React, MongoDB, PostgreSQL**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
-**Aplicações e Dados**
+**Conhecimentos nas Linguagens e Frameworks**
 
  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -22,7 +22,7 @@
 
 
 
-**DevOps**
+**Versionamento de Código**
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -36,12 +36,12 @@
 <br/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angeloengcomp&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurMaciel95&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeloengcomp&layout=compact&theme=tokyonight)](https://github.com/angeloengcomp/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMaciel95&layout=compact&theme=tokyonight)](https://github.com/angeloengcomp/github-readme-stats)
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Angelo Ricardo](https://img.shields.io/badge/-AngeloRicardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelo-ricardo-8583881a1/)](https://www.linkedin.com/in/angelo-ricardo-8583881a1/)
-[![Gmail Badge](https://img.shields.io/badge/-contato@angeloricardo.tech-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@angeloricardo.tech)](mailto:contato@angeloricardo.tech)
-[![GitHub Angelo Ricardo]( https://img.shields.io/github/followers/angeloengcomp?label=follow&style=social)](https://github.com/angeloengcomp)
+[![Linkedin: Arthur Rocha](https://img.shields.io/badge/-AngeloRicardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-rocha-3bb8021a0/)](https://www.linkedin.com/in/arthur-rocha-3bb8021a0/)
+[![Gmail Badge](https://img.shields.io/badge/-contato@angeloricardo.tech-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurnmrocha@gmail.com)](mailto:arthurnmrocha@gmail.com)
+[![GitHub Arthur Rocha]( https://img.shields.io/github/followers/angeloengcomp?label=follow&style=social)](https://github.com/angeloengcomp)
