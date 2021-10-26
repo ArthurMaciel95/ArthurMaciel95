@@ -39,7 +39,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurMaciel95&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMaciel95&layout=compact&theme=tokyonight)](https://github.com/angeloengcomp/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMaciel95&layout=compact&theme=tokyonight)](https://github.com/ArthurMaciel95/github-readme-stats)
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
