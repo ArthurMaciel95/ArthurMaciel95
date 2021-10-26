@@ -44,5 +44,5 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Arthur Rocha](https://img.shields.io/badge/-ArthurRocha95-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-rocha-3bb8021a0/)](https://www.linkedin.com/in/arthur-rocha-3bb8021a0/)
-[![Gmail Badge](https://img.shields.io/badge/-contato@angeloricardo.tech-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurnmrocha@gmail.com)](mailto:arthurnmrocha@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-arthurnmrocha@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurnmrocha@gmail.com)](mailto:arthurnmrocha@gmail.com)
 [![GitHub Arthur Rocha]( https://img.shields.io/github/followers/ArthurMaciel95?label=follow&style=social)](https://github.com/ArthurMaciel95)
